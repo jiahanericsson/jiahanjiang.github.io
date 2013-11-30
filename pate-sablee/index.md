@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "pâte sablée (shortcrust dough)"
+title: "pâte sablée (sweetcrust dough)"
 
 ---
 ### quantity
