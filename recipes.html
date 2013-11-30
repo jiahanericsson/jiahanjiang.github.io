@@ -1,0 +1,13 @@
+---
+layout: page
+title: Recipes
+header: Recipes
+group: navigation
+---
+{% include JB/setup %}
+
+<h2>All Recipes</h2>
+<ul>
+{% assign recipes_list = site.pages %}
+{% include JB/recipes_list %}
+</ul>

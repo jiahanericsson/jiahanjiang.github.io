@@ -1,0 +1,41 @@
+{% comment %}<!--
+The recipes_list include is a listing helper.
+Usage:
+  1) assign the 'recipes_list' variable to a valid array of recipes or posts.
+  2) include JB/recipes_list
+  example:
+    <ul>
+  	  {% assign recipes_list = site.recipes %}  
+  	  {% include JB/recipes_list %}
+  	</ul>
+  	
+  Grouping: (optional): 
+  	assign the 'group' variable to constrain the list to only recipes/posts
+  	in the given group. Note you must define the group manually in the page/post
+  	meta-data to use this feature.
+  	Grouping is mainly helpful for non-post recipes.
+  	If you want to group posts, it's easier/better to tag them, then pass the tagged posts array.
+  	i.e. site.tags.cool_tag (this returns an array of posts tagged: cool_tag)
+  	
+  This helper can be seen in use at: ../_layouts/default.html
+-->{% endcomment %}
+
+{% if site.JB.recipes_list.provider == "custom" %}
+  {% include custom/recipes_list %}
+{% else %}
+  {% for node in recipes_list %}
+    {% if node.title != null %}
+      {% if node.layout == "recipe" %}
+        {% if group == null or group == node.group %}
+          {% if recipe.url == node.url %}
+          <li class="active"><a href="{{ BASE_PATH }}{{node.url}}" class="active">{{node.title}}</a></li>
+          {% else %}
+          <li><a href="{{ BASE_PATH }}{{node.url}}">{{node.title}}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+{% assign recipes_list = nil %}
+{% assign group = nil %}
