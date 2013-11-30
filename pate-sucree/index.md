@@ -19,7 +19,6 @@ egg - 1/50g
 
 water - ~20g
 
-
 ### process (by hand)
 make sure egg is at room temperature
 
@@ -40,7 +39,6 @@ mix together and adjust the consistency with water
 *fraser* without excess
 
 store in fridge before use
-
 
 ### process (by machine)
 soften butter to a *pomade*
