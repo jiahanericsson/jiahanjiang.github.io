@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: recipe
 title: "pâte sablée (sweetcrust dough)"
 
 ---
