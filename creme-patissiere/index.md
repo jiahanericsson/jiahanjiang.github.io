@@ -4,7 +4,7 @@ title: "crème pâtissière (pastry cream)"
 
 ---
 ### quantity
-one sheet
+~1500g
 
 ### ingredients
 milk - 1000g
