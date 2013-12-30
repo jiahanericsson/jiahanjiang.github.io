@@ -38,7 +38,7 @@ when the milk comes to a boil, add a little of the hot milk to the mixture and m
 
 pour mixture back into the casserole with milk boiling
 
-stir continuously with spatula and let boil for ~3 minutes (or until mixture can make tracks on spatula)
+stir continuously with spatula and let boil for ~3 minutes
 
 take off the heat, add cubed butter, and mix until completely dissolved
 
