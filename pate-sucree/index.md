@@ -15,7 +15,7 @@ butter - 100g
 
 icing sugar - 100g
 
-egg - 1/50g
+egg - 1 or 50g
 
 water - ~20g
 

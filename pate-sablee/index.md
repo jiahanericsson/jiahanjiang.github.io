@@ -15,7 +15,7 @@ butter - 125g
 
 icing sugar - 125g
 
-egg - 1/50g
+egg - 1 or 50g
 
 vanilla extract - pm (pour mémoire)
 

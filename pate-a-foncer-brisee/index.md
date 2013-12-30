@@ -15,7 +15,7 @@ salt - 5g
 
 granulated sugar - 25g
 
-egg yolk - 1/20g
+egg yolk - 1 or 20g
 
 water - ~50g
 
