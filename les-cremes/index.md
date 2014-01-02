@@ -36,7 +36,7 @@ sirop chaud / sucre cuit + egg yolks
 ##### bombe (french parfait)
 pâte à bombe + gelatin + crème fouettée
 
-[crème anglaise]: ../creme-anglaise/index.md
-[crème pâtissière]: ../creme-patissiere/index.md
-[meringue française]: ../meringue-francaise/index.md
-[meringue italienne]: ../meringue-italienne/index.md
+[crème anglaise]: ../creme-anglaise
+[crème pâtissière]: ../creme-patissiere
+[meringue française]: ../meringue-francaise
+[meringue italienne]: ../meringue-italienne
