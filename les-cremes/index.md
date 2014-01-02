@@ -9,10 +9,10 @@ whipped cream
 ##### crème chantilly (chantilly cream)
 crème fleurette montée + sugar & flavoring (like vanilla)
 <br><br>
-##### [crème anglaise] (pouring custard)
+##### [crème anglaise]  (pouring custard)
 commonly used as a sauce, filling, or base for other creams and ice cream
 <br><br>
-##### [crème pâtissière] (pastry cream)
+##### [crème pâtissière]  (pastry cream)
 commonly used as a filling or base for other creams
 <br><br>
 ##### crème bavaroise (bavarian cream)
